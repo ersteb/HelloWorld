@@ -2,7 +2,7 @@ package com.KU.zajecia15022020;
 
 import java.util.Random;
 import java.util.Scanner;
-////komentarz blabla git
+
 public class Tablice1 {
 
     public static final int SIZE = 10;
